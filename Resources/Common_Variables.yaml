@@ -1,0 +1,34 @@
+URL:                            https://watch-prod.api.engageapps.jio/ #Prod
+Browser:                        chrome
+Mobile:                         8169593796    #Enter your mobile no
+Password:                       Jio@123321
+Incorrect_URL1:                 https://watch-prod.api.engageapps.jio/s
+Incorrect_URL2:                 https://watch-prod.api.engageapps.jio/histor
+Text:                           [Home,Live Now,Videos,Categories,History,My Watchlist,My Channel]
+
+#Sakshi
+Profile_Text:                   [Oscar1004353,History,My Watchlist,My Channel,Creator Console,Settings,Logout]
+Incorrect_Website_URL:          https://watch-prod.api.engageapps.jio/history                          
+Profile_logo_ontheright:        xpath://div[@class="w-10 h-10 flex relative"]
+Logout_logo:                    xpath:(//div[@class="text-onSurface text-xs cursor-pointer flex mt-2"])[6]   
+URL_of_History:                 https://watch-prod.api.engageapps.jio/history
+Collapse_menu:                  xpath://div[@class="flex w-full cursor-pointer items-center"]
+Collapse_menu1:                 xpath://div[@class="flex p-4"] 
+JioGamesLogo:                   xpath://div[@class="flex items-center justify-center cursor-pointer"]
+Clear_history_button:           xpath://button[@class="border border-primary text-onPrimary rounded-full px-4 py-1.5 cursor-pointer"]
+Watchlist_button:               xpath:(//div[@class="flex w-full hover:bg-[#707070] rounded-full"])[6]
+Clear_list_button:              xpath://div[@class="border text-onBackground rounded-full px-4 py-1.5 cursor-pointer border-primary"]
+Incorrect_URL1:                 https://watch-prod.api.engageapps.jio/s
+Incorrect_URL2:                 https://watch-prod.api.engageapps.jio/histor
+Click_on_Watchlist:             //img[contains(@alt,'My Watchlist')] 
+Watchlist:                      xpath=(//div[@class="flex w-full hover:bg-[#707070] false"])[6]
+
+#Mrunal
+JioGamesWatchURL:               https://watch-prod.api.engageapps.jio/
+
+
+
+
+
+
+

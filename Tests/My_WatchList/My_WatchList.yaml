@@ -1,0 +1,14 @@
+Report_Page:      ["Hateful Conduct","Offensive","Sexually Explicit","Violence","Harassment","Betting/Gambling","Impersonation","Infringe rights","Scam, Spam or malicious activity","Terrorism"]
+#Mrunal
+MyWatchListUrl: https://watch-prod.api.engageapps.jio/watchlist
+CollapsMenuOptions:  [Home,Live Now,Videos,Categories,History,My Watchlist,My Channel]
+ProfileMenuOptns: [History,My Watchlist,My Channel,Creator Console,Settings,Logout]
+VideoTileKebabMenu1: [0,Add to Watch later,Share Video, Report Video]
+#Pooja
+MyWatchlist_Tab: //img[@alt='My Watchlist']
+CollapseMenu: xpath=//div[contains(@class,'flex p-4')]
+MyWatchlist_Url: https://watch-prod.api.engageapps.jio/watchlist
+Kebab_menu: //div[@class="flex min-w-[10px] items-end justify-end w-full"]//img[1]
+Clear_list: xpath=//div[@class='pr-4']
+Clear_watch_list: xpath=//div[contains(text(),'Clear watch list')]
+VideoTileKebabMenu2: [0,Remove from Watch list,Share Video, Report Video]

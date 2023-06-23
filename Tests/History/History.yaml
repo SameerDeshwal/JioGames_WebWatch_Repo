@@ -1,0 +1,10 @@
+UrlHistory: https://watch-prod.api.engageapps.jio/history
+ClearHistory: xpath=//button[normalize-space()='Clear history'] 
+CollapseMenu: xpath=//div[contains(@class,'flex p-4')]
+HistoryTab: xpath=//img[@alt='History']
+ProfileMenuOptns: [History,My Watchlist,My Channel,Creator Console,Settings,Logout]
+kebab menu: //div[@class="flex min-w-[10px] items-end justify-end w-full"]//img[1]
+Report Video: //div[contains(text(),'Report Video')]
+Add to Watch later: //div[normalize-space()='Add to Watch later']
+Share Video: //div[normalize-space()='Add to Watch later']
+ReportVideo_Subtext: Tell us why you wish to report this video?
